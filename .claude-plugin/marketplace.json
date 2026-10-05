@@ -1,0 +1,16 @@
+{
+  "name": "emberquill",
+  "owner": {
+    "name": "Emberquill"
+  },
+  "metadata": {
+    "description": "Emberquill's Claude Code plugin: connects to your Emberquill account and fills your Knowledge Base."
+  },
+  "plugins": [
+    {
+      "name": "emberquill",
+      "source": "./plugins/emberquill",
+      "description": "Connect Claude Code to Emberquill and fill your Knowledge Base with /fill-knowledge-base."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "emberquill",
+  "version": "0.1.0",
+  "description": "Connect Claude Code to Emberquill and fill your Knowledge Base with /fill-knowledge-base.",
+  "author": {
+    "name": "Emberquill"
+  },
+  "keywords": [
+    "emberquill",
+    "seo",
+    "knowledge-base",
+    "mcp"
+  ]
+}
