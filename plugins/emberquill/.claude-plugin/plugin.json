@@ -1,7 +1,7 @@
 {
   "name": "emberquill",
-  "version": "0.2.0",
-  "description": "Connect Claude Code to Emberquill and fill your Knowledge Base with /fill-knowledge-base.",
+  "version": "0.3.0",
+  "description": "Connect Claude Code to Emberquill and fill your Knowledge Base, set up routines, and research keywords.",
   "author": {
     "name": "Emberquill"
   },
